@@ -1,0 +1,8 @@
+.card-container {
+    margin-top: 1rem;
+    display: flex;
+    justify-content: center;
+    justify-self: flex-start;
+    flex-wrap: wrap;
+    gap: 1rem;
+}
